@@ -31,5 +31,6 @@ func main() {
 	fmt.Printf("Комиссия: %d сум\n", comm)
 	fmt.Printf("Итого: %d сум\n", total)
 	fmt.Println("Статус: Исполнено")
+	fmt.Println("Спасибо за использование Alif mobi")
 	fmt.Println("=====================")
 }
